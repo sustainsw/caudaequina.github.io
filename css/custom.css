@@ -1,0 +1,19 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  color: #231f20;
+}
+h1 {
+  font-size: 3em;
+  font-weight: 700;
+  color: #003087;
+}
+h2 {
+  font-weight: 500;
+}
+p {
+  text-align: justify;
+}
+.section {
+  padding: 8rem 0 7rem;
+  text-align: center;
+}
