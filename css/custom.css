@@ -18,6 +18,10 @@ p {
   padding: 8rem 0 7rem;
   text-align: center;
 }
-.odd {
+div.section:nth-child(odd) {
   background-color: #e8edee;
+}
+div.section:nth-child(even) {
+  color: #e8edee;
+  background-color: #425563;
 }
